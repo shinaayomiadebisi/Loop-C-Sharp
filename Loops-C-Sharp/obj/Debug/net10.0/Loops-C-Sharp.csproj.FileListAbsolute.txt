@@ -1,0 +1,14 @@
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/bin/Debug/net10.0/Loops-C-Sharp
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/bin/Debug/net10.0/Loops-C-Sharp.deps.json
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/bin/Debug/net10.0/Loops-C-Sharp.runtimeconfig.json
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/bin/Debug/net10.0/Loops-C-Sharp.dll
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/bin/Debug/net10.0/Loops-C-Sharp.pdb
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/obj/Debug/net10.0/Loops-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/obj/Debug/net10.0/Loops-C-Sharp.AssemblyInfoInputs.cache
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/obj/Debug/net10.0/Loops-C-Sharp.AssemblyInfo.cs
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/obj/Debug/net10.0/Loops-C-Sharp.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/obj/Debug/net10.0/Loops-C-Sharp.dll
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/obj/Debug/net10.0/refint/Loops-C-Sharp.dll
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/obj/Debug/net10.0/Loops-C-Sharp.pdb
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/obj/Debug/net10.0/Loops-C-Sharp.genruntimeconfig.cache
+/Users/mac/Documents/Portfolio/Backend/C#/Loops-C-Sharp/Loops-C-Sharp/obj/Debug/net10.0/ref/Loops-C-Sharp.dll
